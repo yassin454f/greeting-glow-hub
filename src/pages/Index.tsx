@@ -1,7 +1,7 @@
-import GreetingHub from "@/components/GreetingHub";
+import TeraphineApp from "@/components/TeraphineApp";
 
 const Index = () => {
-  return <GreetingHub />;
+  return <TeraphineApp />;
 };
 
 export default Index;
